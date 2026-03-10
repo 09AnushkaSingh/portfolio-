@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website — Anushka Singh
+# 🌐 Personal Portfolio Website - Anushka Singh
 
 > *Data Analyst passionate about turning data into insights*
 
@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About
 
-A clean, responsive personal portfolio website showcasing my journey as a Data Analyst — including my skills, projects, and ways to connect with me.
+A clean, responsive personal portfolio website showcasing my journey as a Data Analyst including my skills, projects and ways to connect with me.
 
 ---
 
