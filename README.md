@@ -20,7 +20,6 @@ A clean, responsive personal portfolio website showcasing my journey as a Data A
 |----------|-------|
 | 📊 Data Analysis | Python, SQL, Excel |
 | 📈 Visualization | Power BI, Excel |
-| 🌐 Frontend | HTML, CSS, JavaScript |
 
 ---
 
@@ -69,4 +68,3 @@ Feel free to reach out or explore my work!
 
 ---
 
-<p align="center">Made with ❤️ by Anushka Singh</p>
